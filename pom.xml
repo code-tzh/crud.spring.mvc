@@ -5,12 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>spring_mvc_2.3.1</artifactId>
+  <artifactId>crud.spring.mvc</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>spring_mvc_2.3.1 Maven Webapp</name>
-  <!-- FIXME change it to the project's website -->
+  <name>crud.spring.mvc</name>
   <url>http://www.example.com</url>
 
   <properties>
